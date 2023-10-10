@@ -1,0 +1,10 @@
+{
+  "video": [
+    "https://github.com/ConfigNeko/CallSanta-Bacdt/raw/main/video/jack.mp4",
+    "https://github.com/ConfigNeko/CallSanta-Bacdt/raw/main/video/witch.mp4"
+  ],
+  "background": [
+    "https://github.com/ConfigNeko/CallSanta-Bacdt/raw/main/background/bg_jack.png",
+    "https://github.com/ConfigNeko/CallSanta-Bacdt/raw/main/background/bg_witch.png"
+  ]
+}
